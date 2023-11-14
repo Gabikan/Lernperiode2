@@ -29,7 +29,16 @@ Ich habe heute am E Portfolio gearbeitet für das M319 ich wollte Windows auf me
 ## Arbeitspakete 14.11
 - [ ] Windows runterladen
 - [ ] Code weiter schreiben
-- [ ] Übrige Modulaufträge erledigen 
+- [ ] Übrige Modulaufträge erledigen
+
+## Zusammenfassung
+Ich hatte heute Probleme beim runterladen von Windows, angeblich sei mein Mac nicht kompatibel, ich muss mal in meiner Freizeit zu einem Supportdienst der mir helfen kann. Als Übergangslösung habe ich mir überlegt mit Crossover oder Wine zu arbeiten, jedoch muss ich das noch abklären.
+
+## Arbeitspakete 21.11.23
+- [ ] Mein PAP zum meinem Code fertig machen
+- [ ] Mein Code weiter schreiben
+- [ ] Weil es DSL ist will ich zum Support sofern dies möglich ist.(Windows auf Mac)
+
       
   
   
