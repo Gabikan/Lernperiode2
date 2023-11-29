@@ -35,11 +35,21 @@ Ich habe heute am E Portfolio gearbeitet für das M319 ich wollte Windows auf me
 Ich hatte heute Probleme beim runterladen von Windows, angeblich sei mein Mac nicht kompatibel, ich muss mal in meiner Freizeit zu einem Supportdienst der mir helfen kann. Als Übergangslösung habe ich mir überlegt mit Crossover oder Wine zu arbeiten, jedoch muss ich das noch abklären.
 
 ## Arbeitspakete 21.11.23
-- [ ] Mein PAP zum meinem Code fertig machen
+- [x ] Mein PAP zum meinem Code fertig machen
 - [ ] Mein Code weiter schreiben
 - [ ] Weil es DSL ist will ich zum Support sofern dies möglich ist.(Windows auf Mac)
 
+Am Anfang hab ich mein PAP vollendet für meinen Code. Die anderen Arbeitspakete hab ich stehen gelassen, da ich noch
+am Projekt arbeiten musste (Needleman-Algorythmus). Ich habe ein Video dazu angeschaut und habe den Algorythmus nach
+einer Stunde verstanden. Danach habe ich mich mit den anderen kurz abgesprochen und ich habe mit dem Code angefangen.
+
+## Arbeitspakete 28.11.2023
+- [ x] Projektarbeit
+- 
       
-  
+## Zusammenfassung 
+Ich habe an unserem Projekt gearbeitet und ich habe jetzt eine Methode gefunden um das beste Stringalligment zu
+schreiben, mein Problem jetzt ist nur noch das in Code in umzuschreiben. Ich habe nur am Projekt gearbeitet um
+aufzuholen.
   
 
