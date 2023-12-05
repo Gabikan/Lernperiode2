@@ -51,5 +51,11 @@ einer Stunde verstanden. Danach habe ich mich mit den anderen kurz abgesprochen 
 Ich habe an unserem Projekt gearbeitet und ich habe jetzt eine Methode gefunden um das beste Stringalligment zu
 schreiben, mein Problem jetzt ist nur noch das in Code in umzuschreiben. Ich habe nur am Projekt gearbeitet um
 aufzuholen.
+
+## Arbeitspakete
+- [ ] Code zusammenfügen
+- [ ] M162 E Portfolio
+- [ ] 
+- [ ] 
   
 
