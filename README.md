@@ -56,6 +56,22 @@ aufzuholen.
 - [ ] Code zusammenfügen
 - [ ] M162 E Portfolio
 - [ ] 
-- [ ] 
+
+## Arbeitspakete 12.12.
+- [x ] Python Youtube Tut
+- [x ] Python testen
+- [ x] Python Mini-Programm
+
+## Zusammenfassung 
+Ich wollte etwas neues lernen ich hatte langsam keine Lust mehr auf C# da mich der Needleman-Algorythmus mich echt an meine Grenzen gebracht hat. Ich habe ein Youtube Tutorial vor längerem auf meiner Startseite gesehen und dachte mir das wäre nicht mal eine so schlechte Idee.
+
+## Arbeitspakete 19.12
+- [x ] Python Notenrechner
+- [ x] Python Lohnrechner
+- [ x] Python Bewerbungsschreiben
+
+## Zusammenfassung
+Heute habe ich Python Projekte programmiert mehrheitlich kleinere Projekte. Ich hatte wenig Mühe und es lief alles gut.
+
   
 
