@@ -71,7 +71,10 @@ Ich wollte etwas neues lernen ich hatte langsam keine Lust mehr auf C# da mich d
 - [ x] Python Bewerbungsschreiben
 
 ## Zusammenfassung
-Heute habe ich Python Projekte programmiert mehrheitlich kleinere Projekte. Ich hatte wenig Mühe und es lief alles gut.
+Heute habe ich Python Projekte programmiert mehrheitlich kleinere Projekte. Ich hatte wenig Mühe und es lief alles gut. Beim nächsten will ich ein bisschen mehr fordern.
+
+## Reflexion
+In letzter Zeit habe ich viel Python gelernt, nachdem mich der Needleman-Algorithmus in C# vor Herausforderungen stellte. Der Wechsel der Programmiersprache hat mir neue Perspektiven eröffnet. Während der Arbeit an meinem aktuellen Projekt war ich zwar produktiv, habe aber andere Aufgaben vernachlässigt und Probleme mit der Kompatibilität von Windows auf meinem Mac haben dabei nicht geholfen. Die Porjektarbeit erforderte kreatives Denken, aber die Umsetzung von Code fiel mir schwer. Ich will meine Organisation verbessern und ich will mehr mit Grafiken machen.
 
   
 
